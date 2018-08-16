@@ -7,7 +7,9 @@ Learn, use and code 'discriminant analysis' for machine learning. Created a prob
 condition to resolve the problem is to, 
 
 1. Assume Class =2 and Class =3 data as one i.e, Class 2 = Class2 + Class3 
-1.1 plot classifier 
+    1.1 plot classifier 
+    
+
 
 2. Scale and determine perfomance of PCa and LDa using Skewness, Kurtosis. 
 3. Evaluate Scatter matrix perfomance for high dimensional data and outliners
