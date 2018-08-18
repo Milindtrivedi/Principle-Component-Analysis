@@ -1,3 +1,5 @@
+%
+
 %Data
 
 %% 
@@ -139,8 +141,6 @@ axes1 = axes('parent',hfig2,'FontWeight','bold','fontsize',12);
 hold('all');
 
 xlabel('X_1 - The First Feature','FontWeight','bold','FontSize',12,'Fontname','Garamond');
-
-
 ylabel('X_2 - The Second Feature','FontWeight','bold','FontSize',12,'Fontname','Garamond');
 
 plot(Y(IND_1==1,1),Y(IND_1==1,2),'r.',Y(IND_1==2,1),Y(IND_1==2,2),'bo','Parent',axes1); hold on;
@@ -197,4 +197,7 @@ grid on
 %plot(line_x4,line_y4,'m-','LineWidth',2); hold on 
 %grid on
 
-
+This program is written by Milind Trivedi. For the purpose of better understanding of PCA and LDA and academic Learning of Pattern recognition.
+Purposely crucial errors are left with projections of vectors etc., for you to review and rectify.  
+For Full-code write me a personal Email or better ask your professor   
+Milind_scattar_matrix is a function and not a part of a code.
