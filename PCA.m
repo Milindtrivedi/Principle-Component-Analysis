@@ -197,7 +197,7 @@ grid on
 %plot(line_x4,line_y4,'m-','LineWidth',2); hold on 
 %grid on
 
-This program is written by Milind Trivedi. For the purpose of better understanding of PCA and LDA and academic Learning of Pattern recognition.
-Purposely crucial errors are left with projections of vectors etc., for you to review and rectify.  
+This program is written by Milind Trivedi. For the purpose of better understanding PCA and LDA of Pattern recognition.
+Purposely crucial errors are left with projections of vectors etc., for you to review,rectify and to better understand the problem.  
 For Full-code write me a personal Email or better ask your professor   
 Milind_scattar_matrix is a function and not a part of a code.
